@@ -9,7 +9,7 @@ The entire code has been written as a giant blob in one file (something I did to
 
 To run, first compile the code as ./compile.sh and then run as 
 
-'''
+```
 ./run.sh <input_file> <output_file>
-'''
+```
 
